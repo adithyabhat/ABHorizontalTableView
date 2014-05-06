@@ -3,7 +3,6 @@
 //  NKTHorizontalTableView
 //
 //  Created by Adithya Bhat on 08/02/12.
-//  Copyright 2012  AKQA Limited. All rights reserved
 //
 
 #import "ABHorizontalTableView.h"
